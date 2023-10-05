@@ -18,7 +18,7 @@ This is a simple GUI application that implements the Pomodoro Technique, a time 
 # Installation
 * Download or clone the files
     
-      git clone pomodoro-gui
+      git clone https://github.com/1darshanpatil/pomodoro-gui
 
 * Navigate to the directory
       
