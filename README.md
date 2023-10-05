@@ -14,6 +14,7 @@ This is a simple GUI application that implements the Pomodoro Technique, a time 
 * Linux Operating System
 * Python 3.x
 * `sox` for playing audio notifications
+  `sox` will be installed as when `./pydeb.sh` will be executed.
 
 
 # Installation
