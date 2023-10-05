@@ -10,7 +10,8 @@ This is a simple GUI application that implements the Pomodoro Technique, a time 
 * Progress indication by tick marks
 
 
-# Prerequisites:
+# Prerequisites
+* Linux Operating System
 * Python 3.x
 * `sox` for playing audio notifications
 
