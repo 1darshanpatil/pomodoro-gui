@@ -48,6 +48,4 @@ Your application is ready!
 
       ./rmpkg.sh
 
-# File Structure
-
-[!image](https://github.com/1darshanpatil/pomodoro-gui/assets/72539638/db638e63-ca1b-4b88-9181-b88552bd7b96)
+![File Structure](https://github.com/1darshanpatil/pomodoro-gui/assets/72539638/db638e63-ca1b-4b88-9181-b88552bd7b96)
